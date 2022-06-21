@@ -4,17 +4,11 @@
         "vid": "0x46f4",
         "sn": "1230ODN402277",
         "mac1": "0011323B0C5A",
-        "SataPortMap": "1821",
-        "DiskIdxMap": "10000810"
+        "SataPortMap": "626",
+        "DiskIdxMap": "080002"
       
     },
-    "synoinfo": {
-      "internalportcfg": "0xffff",
-      "maxdisks": "16",
-      "support_bde_internal_10g": "no",
-      "support_disk_compatibility": "no",
-      "support_memory_compatibility": "no"
-    },
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
