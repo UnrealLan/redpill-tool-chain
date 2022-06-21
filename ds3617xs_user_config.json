@@ -5,8 +5,8 @@
         "sn": "1230ODN402277",
         "mac1": "0011323B0C5A",
         "SasIdxMap":"0",
-        "DiskIdxMap":"06000C",
-        "SataPortMap":"666"
+        "DiskIdxMap":"0E0008",
+        "SataPortMap":"686"
       
     },
     "synoinfo": {},
