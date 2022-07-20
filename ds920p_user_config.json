@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0x0951",
+        "vid": "0x46f4",
+        "sn": "2030SBRPCJXCQ",
+        "mac1": "0011323B0C5A"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
